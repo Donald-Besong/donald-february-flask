@@ -6,6 +6,7 @@ webassets-external/
 env
 venv
 *.env
+*.pem
 env*
 dist
 *.egg
