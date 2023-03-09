@@ -42,7 +42,6 @@ jobs:
 
       - name: Create CodeDeploy Deployment
         id: deploy
-        run: python run.py
           ##### Assuming the Deployment Group is already setup
           aws deploy create-deployment \
             --application-name march-deployments \
