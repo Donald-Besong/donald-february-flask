@@ -17,3 +17,10 @@ dump.rdb
 .vscode/
 .history/
 x-*
+*.yml
+supervisord.conf
+.github
+*.pem
+scripts
+nohup*
+
