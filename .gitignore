@@ -5,7 +5,6 @@ webassets-external/
 *.pyo
 env
 venv
-*.env
 *.pem
 env*
 dist
